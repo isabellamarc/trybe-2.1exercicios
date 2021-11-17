@@ -1,1 +1,1 @@
-Exercícios do modulo 2.1 - Git e Github
+Exercícios Trybe do modulo 2.1 - Git e Github
